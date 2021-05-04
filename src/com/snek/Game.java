@@ -1,8 +1,7 @@
-package com.hackerearth;
+package com.snek;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Random;
 
 public class Game {
     // player -> progress

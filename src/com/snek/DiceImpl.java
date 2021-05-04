@@ -1,4 +1,4 @@
-package com.hackerearth;
+package com.snek;
 
 import java.util.Random;
 

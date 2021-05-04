@@ -1,4 +1,4 @@
-package com.hackerearth;
+package com.snek;
 
 public class Board {
     private final int size;
